@@ -27,9 +27,11 @@ Sample usage of this library are shown below,
     -- Add this in your XML
     
     <com.bannerview.ui.SliderView
-        android:id="@+id/slider"
-        android:layout_width="match_parent"
-        android:layout_height="300dp"/>    
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            app:indicator_gravity="CENTER"
+            app:auto_hide_indicator="true"/> 
         
     -- initiate this view in you activity like this,
     
@@ -60,7 +62,7 @@ Sample usage of this library are shown below,
         
         slider.setUpSliderView(builder)
 
-That's it. It will be modified as your need. I will update other usage very soon. 
+That's it. It can be modified as your need. I will update other usage very soon. 
 
 --#Stay Tuned
     
