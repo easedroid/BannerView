@@ -1,5 +1,6 @@
 package com.bannerview.ui
 
+import android.app.Activity
 import android.content.Context
 import android.os.Handler
 import android.util.AttributeSet
