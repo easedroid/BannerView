@@ -1,8 +1,9 @@
 # BannerView
 
 [![](https://jitpack.io/v/easedroid/BannerView.svg)](https://jitpack.io/#easedroid/BannerView)
+[![](https://jitpack.io/v/easedroid/BannerView.svg)](https://jitpack.io/#easedroid/BannerView)
 
-##This is a simple library for showing banners(images) with sliding features.
+## This is a simple library for showing banners(images) with sliding features.
 
 
 
